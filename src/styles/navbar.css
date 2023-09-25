@@ -1,0 +1,45 @@
+.Navbar-1 img {
+  display: block;
+}
+.Navbar {
+  width: 99vw;
+  height: 8vh;
+  background-color: #0080ff;
+  color: white;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.Navbar-2 {
+  width: 80vw;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+input {
+  width: 40vw;
+  height: 5vh;
+  border-radius: 4px;
+  font-size: 1rem;
+
+  padding-left: 2vw;
+  border: none;
+}
+.login {
+  width: 9vw;
+  height: 5vh;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  background-color: white;
+  color: #0080ff;
+  border-radius: 4px;
+  border: none;
+}
+/* li a {
+  color: white;
+} */
+.Navbar-1 a {
+  color: yellow;
+}

@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Electronics {
+  display: flex;
+  justify-content: space-between;
+}
+.header_component {
+  width: 85vw;
+  margin: auto;
+}
+.aeroplane_img {
+  width: 100vw;
+}
+#image {
+  float: right;
+  width: 20vw;
+  height: 50vh;
+}
+
+.Independence_day {
+  width: 100vw;
+  display: flex;
+  column-gap: 50px;
+  align-items: center;
+
+  height: 100vh;
+  /* border: 2px solid red; */
+}
+
+.bContent {
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+  column-gap: 20px;
+  position: relative;
+  margin-left: 30vw;
+  margin-right: 10vw;
+}
